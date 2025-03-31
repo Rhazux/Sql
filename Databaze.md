@@ -1,5 +1,6 @@
 2. Popis entit a jejich vztahů
 
+
 Clanek:
 id – Unikátní identifikátor článku.
 nadpis – Název.
